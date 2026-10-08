@@ -1,0 +1,7 @@
+# Production Environment Variables
+.env
+
+# Files for Agents, Skills, and Progress 
+AGENTS.md
+SKILLS.md
+PROGRESS.md
